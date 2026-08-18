@@ -313,10 +313,10 @@ packages:
       It is a variable width, variable height system with extensive modular interchange construction capabilities.
     website: https://www.sc4nam.com/docs/feature-guides/realhighway-mod/
     images:
-      - https://www.sc4nam.com/docs/feature-guides/realhighway-mod/images/rhwteaser2.jpg
-      - https://www.sc4nam.com/docs/feature-guides/realhighway-mod/images/rhwteaser3.jpg
-      - https://www.sc4nam.com/docs/feature-guides/realhighway-mod/images/rhwteaser4.jpg
-      - https://www.sc4nam.com/docs/feature-guides/realhighway-mod/images/rhwteaser1.jpg
+      - https://www.sc4nam.com/docs/feature-guides/realhighway/images/rhwteaser2.jpg
+      - https://www.sc4nam.com/docs/feature-guides/realhighway/images/rhwteaser3.jpg
+      - https://www.sc4nam.com/docs/feature-guides/realhighway/images/rhwteaser4.jpg
+      - https://www.sc4nam.com/docs/feature-guides/realhighway/images/rhw-teaser-1.jpg
   dependencies:
     - nam:network-addon-mod-core
   variants:
@@ -412,7 +412,10 @@ packages:
       The REW's ramps can be used to recreate urban and suburban surface arterials that have expressway/freeway-like features, Texas-style frontage roads supporting RCI development/access (especially in combination with RealHighways), or various novel intersection configurations.
     website: https://www.sc4nam.com/docs/feature-guides/realexpressway-mod/
     images:
-      - https://www.sc4nam.com/docs/feature-guides/realexpressway-mod/images/rew-flex-5.jpg
+      - https://www.sc4nam.com/docs/feature-guides/realexpressway/images/rew-teaser-1.jpg
+      - https://www.sc4nam.com/docs/feature-guides/realexpressway/images/rew-teaser-2.jpg
+      - https://www.sc4nam.com/docs/feature-guides/realexpressway/images/rew-teaser-3.jpg
+      - https://www.sc4nam.com/docs/feature-guides/realexpressway/images/rew-teaser-4.jpg
 
   dependencies:
     - nam:network-addon-mod-core
